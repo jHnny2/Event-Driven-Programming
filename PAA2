@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event-Driven 4-114</title>
+    
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <div class="parallax-container">
+      <div class="parallax"><img src="img/dev.png"></div>
+  </div>
+  </head>
+<body>
+  <div class="section white">
+    <div class="row container center-align">
+      <h2 class="header">Projects Involved</h2>
+            <div class="card col s4" >
+                <div class="card-image waves-effect waves-block waves-light">
+                  <img class="activator" src="img/html.png" style="width:400px; height:100px;">
+                </div>
+                <div class="card-content">
+                  <span class="card-title activator grey-text text-darken-4">HTML<i class="material-icons right">more_vert</i></span>
+                </div>
+                <div class="card-reveal">
+                  <span class="card-title grey-text text-darken-4">HTML<i class="material-icons right">close</i></span>
+                  <p>Some of my projects from high school and last year with HTML programming language.</p>
+                </div>
+            </div>
+            <div class="card col s4">
+                <div class="card-image waves-effect waves-block waves-light">
+                  <img class="activator" src="img/python.png" style="width:400px; height:100px;">
+                </div>
+                <div class="card-content">
+                  <span class="card-title activator grey-text text-darken-4">Python<i class="material-icons right">more_vert</i></span>
+                  
+                </div>
+                <div class="card-reveal">
+                  <span class="card-title grey-text text-darken-4">Python<i class="material-icons right">close</i></span>
+                  <p>I have a few projects using Python.</p>
+                </div>
+            </div>
+            <div class="card col s4">
+                <div class="card-image waves-effect waves-block waves-light">
+                  <img class="activator" src="img/c++.png" style="width:400px; height:100px;">
+                </div>
+                <div class="card-content">
+                  <span class="card-title activator grey-text text-darken-4">C++<i class="material-icons right">more_vert</i></span>
+                  
+                </div>
+                <div class="card-reveal">
+                  <span class="card-title grey-text text-darken-4">C++<i class="material-icons right">close</i></span>
+                  <p>I have projects from this programming language but for exercises and practices.</p>
+                </div>
+              </div>
+              </div>
+            </div>
+        </div>
+      </div>
+      </div> 
+    </div>
+    <div class="parallax-container">
+      <div class="parallax"><img src="img/social.jpg"></div>
+  </div>
+  <div class="section white">
+      <div class="row container center-align">
+
+        <h2 class="header">Social Links</h2>
+          <div class="card col s4 ">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/fb.png" style="width:400px; height:100px;">
+              </div>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">Facebook<i class="material-icons right">more_vert</i></span>
+
+              </div>
+              <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">Facebook<i class="material-icons right">close</i></span>
+                <p>John Rey Mancenido</p>
+                <p>https://www.facebook.com/johnrey.mancenido/</p>
+              </div>
+          </div>
+          <div class="card col s4">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/insta.png" style="width:400px; height:100px;">
+              </div>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">Instagram<i class="material-icons right">more_vert</i></span>
+                
+              </div>
+              <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">Instagram<i class="material-icons right">close</i></span>
+                <p>jhnry2mncnd</p>
+                <p>https://www.instagram.com/jhnry2mncnd/?hl=en</p>
+              </div>
+          </div>
+          <div class="card col s4">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="activator" src="img/yt.png" style="width:400px; height:100px;">
+              </div>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">Youtube<i class="material-icons right">more_vert</i></span>
+                
+              </div>
+              <div class="card-reveal">
+                <span class="card-title grey-text text-darken-4">Youtube Channel<i class="material-icons right">close</i></span>
+                <p>John Rey Mancenido</p>
+                <p>https://www.youtube.com/channel/UCLxOvYMdnaUD2j08TG4PEjA</p>
+              </div>
+          </div>
+      </div>
+      
+  </div>
+  <div class="parallax-container">
+    <div class="parallax"><img src="img/tech.jfif"></div>
+</div>
+<div class="section white">
+    <div class="row container center-align">
+
+      <h2 class="header">Frameworks Used</h2>
+        <div class="card col s4 ">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="img/msedge.png" style="width:400px; height:100px;">
+            </div>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4">Microsoft Edge<i class="material-icons right">more_vert</i></span>
+              
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Microsoft Edge<i class="material-icons right">close</i></span>
+              <p>Here is some links on some from this browser.</p>
+            </div>
+        </div>
+        <div class="card col s4">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="img/ggchrome.png" style="width:400px; height:100px;">
+            </div>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4">Google Chrome<i class="material-icons right">more_vert</i></span>
+              
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Google Chrome<i class="material-icons right">close</i></span>
+              <p>Here is some links on some from this browser.</p>
+            </div>
+        </div>
+        <div class="card col s4">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="img/mzfirefox.png" style="width:400px; height:100px;">
+            </div>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4">Mozilla Firefox<i class="material-icons right">more_vert</i></span>
+             
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Mozilla Firefox<i class="material-icons right">close</i></span>
+              <p>Here is some links on some from this browser.</p>
+            </div>
+        </div>
+    </div>
+    
+</div>
+<div class="parallax-container">
+  <div class="parallax"><img src="img/prolang.jpg"></div>
+</div>
+<div class="section white">
+  <div class="row container center-align">
+
+    <h2 class="header">Programming languages I want to learn</h2>
+      <div class="card col s4 ">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="img/python.png" style="width:400px; height:100px;">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Python<i class="material-icons right">more_vert</i></span>
+            
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Python<i class="material-icons right">close</i></span>
+            <p>Here is some more information about why I want to learn this programming language.</p>
+          </div>
+      </div>
+      <div class="card col s4">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="img/java.png" style="width:400px; height:100px;">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Java<i class="material-icons right">more_vert</i></span>
+            
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Java<i class="material-icons right">close</i></span>
+            <p>Here is some more information about why I want to learn this programming language.</p>
+          </div>
+      </div>
+      <div class="card col s4">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="img/javascript.png" style="width:400px; height:100px;">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">JavaScript<i class="material-icons right">more_vert</ ai></span>
+            
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">JavaScript<i class="material-icons right">close</i></span>
+            <p>Here is some more information about why I want to learn this programming language.</p>
+          </div>
+      </div>
+  </div>
+</div>
+    
+  <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var elems = document.querySelectorAll('.parallax');
+        var instances = M.Parallax.init(elems);
+    });
+  </script>
+</body>
+</html>
